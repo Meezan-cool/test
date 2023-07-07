@@ -1,0 +1,19 @@
+.Hcontainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 2rem;
+    font-family: 'Jolly Lodger';
+    
+}
+.Hcontainer h1{
+    padding: 7px 25px;
+    border-radius: 8px;
+    font-size: 3rem;
+    font-weight: bold;
+    background: linear-gradient(#dc2424 0%,#0e91d8 100%);
+}
+.Hcontainer h1:hover{
+    color: aliceblue;
+}
